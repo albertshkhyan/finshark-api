@@ -1,0 +1,111 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS Code
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.obj
+*.bin
+*.nupkg
+*.vsix
+*.pidb
+*.suo
+*.cache
+*.ilk
+*.log
+*.sbr
+*.tlog
+*.user
+*.userosscache
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NPM Packages
+node_modules/
+npm-debug.log
+
+# Webpack
+dist/
+.DS_Store
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Mac
+.DS_Store
+
+# Python
+__pycache__/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Rider
+.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/libraries
+.idea/**/vcs.xml
+.idea/**/jsLibraryMappings.xml
+.idea/**/vcs.xml
+.idea/**/vcs.xml
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Coverlet coverage tool
+coverage.opencover.xml
+coverage.opencover.html
+coverage.cobertura.xml
+coverage.json
+coverage.info
